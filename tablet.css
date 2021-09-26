@@ -1,0 +1,10 @@
+.footer-bottom {
+    flex-direction: column;
+    align-items: center;
+}
+.fb-left {
+    margin-bottom: 20px;
+}
+.fb-left ul li {
+    padding: 0px 18px;
+}
